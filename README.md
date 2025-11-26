@@ -11,7 +11,7 @@ This program generates a structured numerical pattern where numbers are printed 
 
 ---
 
-## ✅ **Functional Requirements**
+## **Functional Requirements**
 
 ### **1. Add Doctor**
 
@@ -61,7 +61,7 @@ This program generates a structured numerical pattern where numbers are printed 
 
 ---
 
-## ⭐ **Features**
+## **Features**
 
 * File storage using `doctors.dat`
 * Handles up to **200 doctors**
@@ -74,7 +74,7 @@ This program generates a structured numerical pattern where numbers are printed 
 
 ---
 
-## ▶️ **How to Run the Project**
+## **How to Run the Project**
 
 ### **1. Save the Program**
 
@@ -109,12 +109,12 @@ doctor_management.exe
 ```
 ---
 
-## 🖼️ **Screenshots (Optional Section)**
+## **Screenshots (Optional Section)**
 
 > You can add screenshots later.
 > Example placeholders:
 
-### **🖼️ 1. Main Menu Screen**
+### ** 1. Main Menu Screen**
 
 ```
 === Doctor Management ===
@@ -126,7 +126,7 @@ doctor_management.exe
 6. Exit
 ```
 
-### **🖼️ 2. Add Doctor Example**
+### ** 2. Add Doctor Example**
 
 ```
 Enter doctor's name: John
